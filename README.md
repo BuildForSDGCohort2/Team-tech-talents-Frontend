@@ -21,7 +21,7 @@ And finally in the root folder (src) I only place the index.js file, the service
 Just run this code:
 
 ```bash
-git clone https://github.com/NauCode/ReactJS-Project-Structure.git your_project_name
+git clone https://github.com/BuildForSDGCohort2/Team-tech-talents-Frontend.git
 ```
 
 After that, enter in the folder using:
