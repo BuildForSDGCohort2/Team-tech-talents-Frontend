@@ -39,7 +39,8 @@ function App() {
                 </span>
             </div>    <div class="app-header__content">
                 <div class="app-header-left">
-                <img src={Logo} style={{height:"60px",width:"100px"}}/>
+                {/* <img src={Logo} style={{height:"60px",width:"100px"}}/> */}
+                <h3>Pharmaceuticals Tracking System</h3>
  </div>
                 <div class="app-header-right">
                     <div class="header-btn-lg pr-0">
