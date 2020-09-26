@@ -14,7 +14,9 @@ export default class Menu extends Component {
                 className="brand-image img-circle elevation-3"
                 style={{ opacity: ".8" }}
               />
-              <span className="brand-text font-weight-light">AdminLTE 3</span>
+              <span className="brand-text font-weight-light">
+                Drugs Tracker
+              </span>
             </a>
             {/* Sidebar */}
             <div className="sidebar">
@@ -29,7 +31,7 @@ export default class Menu extends Component {
                 </div>
                 <div className="info">
                   <a href="fake_url" className="d-block">
-                    Alexander Pierce
+                    System Admin
                   </a>
                 </div>
               </div>
